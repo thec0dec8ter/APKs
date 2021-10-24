@@ -37,4 +37,5 @@ Basic Tips :
 <li>Secret number cannot begin with 0</li>
 </ul>
 Goodluck. :thumbsup:
+<br>Play the web version: <a href="https://aolamide.github.io/number-game/">Number Game</a></br>
  
